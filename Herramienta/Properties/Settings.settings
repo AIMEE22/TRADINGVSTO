@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Herramienta.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ResumenSemanal" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">/diary/resumenSemanal</Value>
+    </Setting>
+    <Setting Name="UrlApi" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://192.168.0.2/apiMovStock/phptrading/public/</Value>
+    </Setting>
+    <Setting Name="ReseumenAnual" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">/diary/resumenAnual</Value>
+    </Setting>
+    <Setting Name="TradeGanador" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">/diary/TradeGanador</Value>
+    </Setting>
+    <Setting Name="TradePerdedor" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">/diary/TradePerdedor</Value>
+    </Setting>
+    <Setting Name="TradesAgrupados" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">/diary/TradesAgrupados</Value>
+    </Setting>
+    <Setting Name="RazonExito" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">/diary/RazonExito</Value>
+    </Setting>
+    <Setting Name="RazonFracaso" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">/diary/RazonFracaso</Value>
+    </Setting>
+    <Setting Name="Guardar" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">/diary/Guardar</Value>
+    </Setting>
+    <Setting Name="Insertar" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">/diary/Insertar</Value>
+    </Setting>
+    <Setting Name="Actualizar" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">/diary/Actualizar</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<customUI xmlns="http://schemas.microsoft.com/office/2009/07/customui" onLoad="Ribbon_Load">
+  <ribbon>
+    <tabs>
+      <tab id="diary1" label="TRADING"  insertAfterMso="TabView">
+        <group id="MyGroupDD" label="ResumenDiary">
+          <button id="btResumenSemanal" label="Resumen Semanal/Mensual" imageMso="MeetingsToolWorkWeekMenu" size="large" onAction="ResumenMensual" />
+          <button id="btResumenAnual" label="Resumen Anual" imageMso="RelationshipDesignAllRelationships" size="large" onAction="ReporteAnual" />
+        </group>
+        <group id="MyGroup" label="GuardarDatos">
+          <button id="btGuardarDatos" label="Guardar y Actulizar" imageMso="FilesToolSaveAs" size="large" onAction="GuardarDatos" />
+        </group>
+      </tab>
+    </tabs>
+  </ribbon>
+</customUI>
+
+
+
